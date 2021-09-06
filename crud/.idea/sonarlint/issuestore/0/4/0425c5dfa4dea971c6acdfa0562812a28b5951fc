@@ -1,0 +1,14 @@
+
+e
+java:S2095!"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(’î∞ˇ
+]
+java:S2095m"GUse try-with-resources or close this "Statement" in a "finally" clause.(å«≤˝
+e
+java:S2095E"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(’î∞ˇ
+e
+java:S2095U"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(’î∞ˇ
+e
+java:S20953"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(’î∞ˇ
+>	java:S108a")Either remove or fill this block of code.(…Æ£ù
+h	java:S100g"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶›˙—¸ˇˇˇˇ
+>	java:S108{")Either remove or fill this block of code.(…Æ£ù

@@ -1,0 +1,26 @@
+
+e
+java:S2095Z"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Õ”°ÿ
+e
+java:S2095J"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Õ”°ÿ
+e
+java:S2095:"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Õ”°ÿ
+^
+java:S2095ƒ"GUse try-with-resources or close this "Statement" in a "finally" clause.(ŒÇ²ı
+e
+java:S2095%"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Õ”°ÿ
+J
+java:S3740o"/Provide the parametrized type for this generic.(Ø™ò¤ÿÿÿÿÿ
+`
+java:S1192f"KDefine a constant instead of duplicating this literal "observacao" 3 times.(º†–
+g
+java:S1192a"QDefine a constant instead of duplicating this literal "codigoemprestimo" 3 times.(ı¯ç‘
+h
+java:S1192e"RDefine a constant instead of duplicating this literal "isemprestimoativo" 3 times.(ÎÖ’Á
+j
+java:S1192b"ODefine a constant instead of duplicating this literal "dataemprestimo" 3 times.(À‡ÖÄøÿÿÿÿ
+G
+java:S1128"1Remove this unused import 'model.entity.EPessoa'.(ö‰«
+>	java:S108i")Either remove or fill this block of code.(É®£
+h	java:S100o"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø™ò¤ÿÿÿÿÿ
+?	java:S108—")Either remove or fill this block of code.(É®£

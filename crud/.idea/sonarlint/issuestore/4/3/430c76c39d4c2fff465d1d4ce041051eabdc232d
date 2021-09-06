@@ -1,0 +1,24 @@
+
+b
+java:S1192+"LDefine a constant instead of duplicating this literal "codigoLivro" 3 times.(şÅäÙ
+b
+java:S11925"GDefine a constant instead of duplicating this literal "livros" 3 times.(¬³ƒ¢ùÿÿÿÿ
+_
+java:S2259X"DA "NullPointerException" could be thrown; "codigo" is nullable here.(Áºğÿÿÿÿÿ
+P
+java:S1161"":Add the "@Override" annotation above this method signature(÷¤‹ú
+o
+java:S1989+"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(şÅäÙ
+o
+java:S19893"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(şÅäÙ
+o
+java:S1989:"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(şÅäÙ
+|
+java:S1989G"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(Àá‘“ıÿÿÿÿ
+U
+java:S1161L":Add the "@Override" annotation above this method signature(ş³‚”ûÿÿÿÿ
+t
+java:S1989W"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(š”ÎÙşÿÿÿÿ
+>	java:S108]")Either remove or fill this block of code.(”ı¾
+|
+java:S1989c"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(Àá‘“ıÿÿÿÿ
